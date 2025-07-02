@@ -2,6 +2,8 @@
 
 Este é meu portfólio pessoal desenvolvido com HTML e CSS. O objetivo do projeto é apresentar de forma clara e elegante quem sou, meus projetos, habilidades e formas de contato.
 
+![Screenshot do Portfólio](img/portifolio.png)
+
 ---
 
 ## 🎯 Objetivo
